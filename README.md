@@ -3,7 +3,9 @@ MDX-Runner
 
 Tools for building and running MDX &amp; XMLA queries
 
-MDX Runner - Copyright (C) 2014 Andrew Prendergast & VizDynamics. Licensed under the GNU GPL v3.
+*MDX Runner - Copyright (C) 2014 Andrew Prendergast & VizDynamics.*
+
+Licensed under the GNU GPL v3.
 Author contact: ap@vizdynamics.com or http://blog.andrewprendergast.com/
 More info and latest version at mdxrunner.org
 
